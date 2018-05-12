@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36319'
     url: http://www.gutenberg.org/2009/agents/36319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43918#The-Penitent-Boyor-Sin-Brings-Sorrow
 gutenberg_issued: '2013-10-09'
 gutenberg_type: Text
 identifiers:
